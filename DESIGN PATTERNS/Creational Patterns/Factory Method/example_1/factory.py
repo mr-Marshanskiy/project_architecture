@@ -10,7 +10,7 @@ class Pet(abc.ABC):
 
     def eat(self):
         pass
-
+   
     def drink(self):
         pass
 
