@@ -95,6 +95,7 @@ class Application:
         checkbox = self.create_checkbox()
         print(f'button: {button.get_color()}, checkbox: {checkbox.get_color()}')
         return
+# endregion
 
 
 # region example
